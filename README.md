@@ -15,3 +15,36 @@ Original Lib is Made By [BloodBall](https://github.com/bloodball) , All credits 
 ### Black With Search:
 
 ![Imagen](https://cdn.discordapp.com/attachments/1159176254382166037/1255610020758945950/image.png?ex=667dc175&is=667c6ff5&hm=61841a59e0a2d23c01c155892504bd778025d3ef886034490ed6d554172822a3&)
+
+### Blue Without Search:
+
+![Imagen](https://cdn.discordapp.com/attachments/1159176254382166037/1255616209282666576/image.png?ex=667dc738&is=667c75b8&hm=9679e8949accd82fbe705aa1db74767bbc27274b425cd2dcb15a6e5d42d85181&)
+
+### Blue With Search:
+
+![Imagen](https://cdn.discordapp.com/attachments/1159176254382166037/1255616733948018728/image.png?ex=667dc7b5&is=667c7635&hm=595c7eed5c6be2f1cff37d81a842305635edadc0409e3762b38bf7bcd8e95b07&)
+
+### Purple Without Search:
+
+![Imagen](https://cdn.discordapp.com/attachments/1159176254382166037/1255617213193523200/image.png?ex=667dc827&is=667c76a7&hm=b03a56c4d7e9c451e451d174480379e8e585167a39f574067c665b523bb851fa&)
+
+### Purple With Search:
+
+![Imagen](https://cdn.discordapp.com/attachments/1159176254382166037/1255617763389739138/image.png?ex=667dc8ab&is=667c772b&hm=b6b4b1b1a82fa48d25870384ccc1bbf27a38332ea40dcc49767c269f30dff4ab&)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
