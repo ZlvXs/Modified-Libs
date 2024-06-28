@@ -32,14 +32,21 @@ Original Lib is Made By [BloodBall](https://github.com/bloodball) , All credits 
 
 ![Imagen](https://cdn.discordapp.com/attachments/1159176254382166037/1255617763389739138/image.png?ex=667dc8ab&is=667c772b&hm=b6b4b1b1a82fa48d25870384ccc1bbf27a38332ea40dcc49767c269f30dff4ab&)
 
+### Red Without Search:
 
+![Imagen](https://cdn.discordapp.com/attachments/1159176254382166037/1256067665886183557/image.png?ex=667f6bac&is=667e1a2c&hm=d9a2f78c8121788eec637d6a5bd4a14604285ea6f01d6362332eddf995f11262&)
 
+### Red With Search:
 
+![image](https://github.com/ZlvXs/Modified-Libs/assets/141329634/58cd297f-261d-43f4-8b77-4cd3ba9fb6a3)
 
+### White Without Search:
 
+![image](https://github.com/ZlvXs/Modified-Libs/assets/141329634/0e19f5ef-20fc-4c56-8320-a39735080cc2)
 
+### White With Search:
 
-
+![image](https://github.com/ZlvXs/Modified-Libs/assets/141329634/cd87ab09-3bc5-4f74-b2bc-9145c6ad9b36)
 
 
 
