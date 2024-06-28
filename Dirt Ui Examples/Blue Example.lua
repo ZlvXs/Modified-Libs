@@ -1,7 +1,7 @@
-local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZlvXs/Modified-Libs/main/Blue.lua",true))()
+local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZlvXs/Libs/main/Dirt%20Ui/Blue.lua",true))()
 local Table = {}
-local window = Lib:CreateWindow("Nice")
-window:Section("Lib")
+local window = Lib:CreateWindow("Window")
+window:Section("Section")
 window:Button("Button",function()
    print("Nice")
 end)
