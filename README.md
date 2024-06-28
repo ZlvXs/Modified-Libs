@@ -1,6 +1,6 @@
 # Here i will post Modified Libs, If u want ur own Modified lib Send me a Friend Request, Zpzlvv. (And yes, i will do it for free because is too basic). But anyways, i will show how it looks.
 ### First Lib, Dirt UI
-Original Lib is Made By [BloodBall](https://github.com/bloodball) , All credits to him!, and yes, all the images will have a black part because I am censoring my account name.
+Original Lib is Made By [BloodBall](https://github.com/bloodball) , All credits to him!, and yes, all the images will have a black part because I am censoring my account name. Also, the keybind to hide the lib is F6.
 ### Original Without Search:
 ![Imagen](https://cdn.discordapp.com/attachments/1159176254382166037/1255606956626804897/image.png?ex=667dbe9a&is=667c6d1a&hm=66519008030e582a8f67f3100b5691cfcb33b4ffe256dcc01f5526b2f724b45e&)
 
