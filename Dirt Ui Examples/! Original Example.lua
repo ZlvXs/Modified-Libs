@@ -1,7 +1,7 @@
 local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/dirt",true))()
 local Table = {}
-local window = Lib:CreateWindow("Nice")
-window:Section("Lib")
+local window = Lib:CreateWindow("Window")
+window:Section("Section")
 window:Button("Button",function()
    print("Nice")
 end)
