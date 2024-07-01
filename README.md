@@ -55,6 +55,11 @@ Unfortunately i didnt found the real owner, so credits to him if he read this.
 
 ![image](https://github.com/ZlvXs/Modified-Libs/assets/141329634/4ba0d523-4dd8-48c7-b4cd-c9162fbb965a)
 
+### Purple:
+
+![image](https://github.com/ZlvXs/Modified-Libs/assets/141329634/012e7e09-c07f-48a5-9b69-5503f65a9a42)
+
+
 
 
 
